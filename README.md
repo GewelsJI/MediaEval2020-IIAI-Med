@@ -1,9 +1,6 @@
 # medico_submission
 this repo is submitted to medico competition
 
-## instructions
-
-
 ## model weights
 
 - download it from [google drive](https://drive.google.com/file/d/1cbJ5dh-Vcat6TfWvZ1ziZJdKyVHT0fAW/view)
