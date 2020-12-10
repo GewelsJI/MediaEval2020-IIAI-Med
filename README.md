@@ -26,7 +26,7 @@ In addition, we mine the boundary cues using the reverse
 attention (RA) module, which is able to establish the relationship
 between areas and boundary cues. 
 
-**Performance and Efficiency.** Thanks to the recurrent cooperation
+**High Performance and Efficiency.** Thanks to the recurrent cooperation
 mechanism between areas and boundaries, our PraNet is
 capable of calibrating misaligned predictions, improving the segmentation
 accuracy and achieving real-time efficiency (30fps) on
