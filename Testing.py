@@ -3,8 +3,8 @@ import torch.nn.functional as F
 import numpy as np
 import os, argparse
 import cv2
-from PraNet_Res2Net import PraNet
-from data import test_dataset
+from utils.PraNet_Res2Net import PraNet
+from utils.data import test_dataset
 import time
 
 
@@ -33,8 +33,8 @@ model.cuda()
 model.eval()
 
 # test
-save_path = './mask/'
-dataset_path = './medico2020/'
+save_path = 'data/mask/'
+dataset_path = 'data/medico2020/'
 
 if not os.path.exists(save_path):
     os.makedirs(save_path)
