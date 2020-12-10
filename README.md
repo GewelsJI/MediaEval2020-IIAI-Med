@@ -1,5 +1,3 @@
-# Automatic Polyp Segmentation via Parallel Reverse Attention Network (MediaEval'20 Workshop)
-
 <img src="img/introduction.png" width="100%">
 
 <p align="center">
