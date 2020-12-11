@@ -14,6 +14,12 @@
   <a href="http://www.inceptioniai.org/">Ling Shao</a>
 </p>
 
+## :boom: News :boom:
+
+- Traning code will be update before the virtual conference
+
+- Testing dataset will be update after the release of official link by workshop organizer
+
 ## 1. Brief Description
 
 In this paper, we present a novel deep neural network, termed Parallel Reverse Attention Network 
@@ -69,7 +75,7 @@ pip install opencv-python==3.4.2.17 tensorboardX==2.0
 ### 2.3. inference
 
 - Following the protocol defined in the workshop instructions, we prepare the test set. (Note that we do not have 
-ground-truth until now)
+ground-truth until now, and we will update it later)
 
 - Download the model weights from [google drive](https://drive.google.com/file/d/1cbJ5dh-Vcat6TfWvZ1ziZJdKyVHT0fAW/view)
 
@@ -102,4 +108,4 @@ This repo is submitted to the workshop at Medico Automatic Polyp Segmentation Ch
 our original paper ([Project](https://link.springer.com/chapter/10.1007%2F978-3-030-59725-2_26), 
 [Paper](https://link.springer.com/chapter/10.1007%2F978-3-030-59725-2_26), 
 [Chinese Traslation](http://dpfan.net/wp-content/uploads/MICCAI20_PraNet_Chinese.pdf), and
-[Code](https://github.com/DengPingFan/PraNet)). For more questions, please feel free to contact me via gepengai.ji@gmail.com
+[Code](https://github.com/DengPingFan/PraNet)). For more questions, please feel free to contact me via [e-mail](gepengai.ji@gmail.com).
