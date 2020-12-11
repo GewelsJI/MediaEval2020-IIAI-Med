@@ -16,6 +16,8 @@
 
 ## :boom: News :boom:
 
+- The preliminary proceedings for the workshop has now been released: https://www.eigen.no/.
+
 - Traning code will be update before the virtual conference
 
 - Testing dataset will be update after the release of official link by workshop organizer
