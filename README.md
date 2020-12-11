@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="[xxxx](https://scholar.google.com/citations?user=oaxKYKUAAAAJ&hl=en)">Ge-Peng Ji</a> |
+  <a href="https://scholar.google.com/citations?user=oaxKYKUAAAAJ&hl=en">Ge-Peng Ji</a> |
   <a href="https://dpfan.net/">Deng-Ping Fan*</a> |
   <a href="https://taozh2017.github.io/">Tao Zhou</a> |
   <a href="https://www.researchgate.net/profile/Geng_Chen13">Geng Chen</a> |
@@ -108,4 +108,4 @@ This repo is submitted to the workshop at Medico Automatic Polyp Segmentation Ch
 our original paper ([Project](https://link.springer.com/chapter/10.1007%2F978-3-030-59725-2_26), 
 [Paper](https://link.springer.com/chapter/10.1007%2F978-3-030-59725-2_26), 
 [Chinese Traslation](http://dpfan.net/wp-content/uploads/MICCAI20_PraNet_Chinese.pdf), and
-[Code](https://github.com/DengPingFan/PraNet)). For more questions, please feel free to contact me via [e-mail](gepengai.ji@gmail.com).
+[Code](https://github.com/DengPingFan/PraNet)). For more questions, please feel free to contact me via gepengai.ji@gmail.com.
