@@ -38,8 +38,7 @@ capable of calibrating misaligned predictions, improving the segmentation
 accuracy and achieving real-time efficiency (30fps) on
 a single NVIDIA GeForce GTX 1080 GPU.
 
-**Training Strategy.** We introduce different 
-data augmentation strategies into the dataloader, such as random horizontal flipping, rotating, 
+**Training Strategy.** We introduce four data augmentation strategies into the dataloader, such as random horizontal flipping, rotating, 
 color enhancement and border cropping. These strategies is able to enhance the capability and generalizability 
 of the model in the practial scene.
 
