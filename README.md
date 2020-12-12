@@ -1,7 +1,7 @@
 <img src="img/introduction.png" width="100%">
 
 <p align="center">
-  <a href="xxxx">Arxiv Preprint (Upcoming)</a> |
+  <a href="https://www.eigen.no/MediaEval20_paper_29.pdf">Paper Link</a> |
   <a href="https://youtu.be/ukJKJosu1f8">Presentation Video on YouTube</a>
 </p>
 
