@@ -28,7 +28,7 @@
 ## 1. Brief Description
 
 In this paper, we present a novel deep neural network, termed Parallel Reverse Attention Network 
-(_PraNet_), for the task of automatic polyp segmentation at MediaEval 2020. We give the brif description here:
+(_PraNet_), for the task of automatic polyp segmentation at [MediaEval 2020](https://multimediaeval.github.io/editions/2020/tasks/medico/). We give the brif description here:
 
 **Technical Details.** Specifically, we first aggregate the features in high-level layers using a parallel partial
 decoder (PPD). Based on the combined feature, we then generate a
