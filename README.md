@@ -6,6 +6,7 @@
 </p>
 
 <p align="center">
+  IIAI-Med Team:
   <a href="https://scholar.google.com/citations?user=oaxKYKUAAAAJ&hl=en">Ge-Peng Ji</a> |
   <a href="https://dpfan.net/">Deng-Ping Fan*</a> |
   <a href="https://taozh2017.github.io/">Tao Zhou</a> |
@@ -45,6 +46,36 @@ color enhancement and border cropping. These strategies is able to enhance the c
 of the model in the practial scene.
 
 ## 2. Usage
+
+The file tree structure is described here:
+
+    MediaEval2020-IIAI-Med
+    ├── data
+    │   ├── TestDataset
+    │   │   └── MedicoPolypSeg
+    │   │       └── images
+    │   ├── TrainDataset
+    │   │   └── Kvasir-SEG
+    │   │       ├── images
+    │   │       └── masks
+    │   └── ValDataset
+    │       └── Kvasir-SEG
+    │           ├── GT
+    │           ├── images
+    │           └── masks
+    ├── img
+    │   └── introduction.png
+    ├── lib
+    │   └── __init__.py
+    ├── README.md
+    ├── Testing.py
+    ├── Training.py
+    └── utils
+        ├── create_enviornment.sh
+        ├── data.py
+        ├── __init__.py
+        ├── PraNet_Res2Net.py
+        └── Res2Net_v1b.py
 
 ### 2.1. Prerequisites of Environment
 
