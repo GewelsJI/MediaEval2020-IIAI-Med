@@ -17,7 +17,7 @@
 
 ## :boom: News :boom:
 
-- [2020/12/12] Training code is released!
+- [2020/12/12] Training code is released! Please enjoy it!
 
 - [2020/12/11] The preliminary proceedings for the workshop has now been released: https://www.eigen.no/.
 
@@ -55,20 +55,16 @@ The file tree structure is described here:
     ├── data
     │   ├── TestDataset
     │   │   └── MedicoPolypSeg
-    │   │       └── images
     │   ├── TrainDataset
     │   │   └── Kvasir-SEG
-    │   │       ├── images
-    │   │       └── masks
     │   └── ValDataset
     │       └── Kvasir-SEG
-    │           ├── GT
-    │           ├── images
-    │           └── masks
     ├── img
     │   └── introduction.png
     ├── lib
-    │   └── __init__.py
+    │   ├── __init__.py
+    │   ├── PraNet_Res2Net.py
+    │   └── Res2Net_v1b.py
     ├── README.md
     ├── Testing.py
     ├── Training.py
@@ -76,8 +72,7 @@ The file tree structure is described here:
         ├── create_enviornment.sh
         ├── data.py
         ├── __init__.py
-        ├── PraNet_Res2Net.py
-        └── Res2Net_v1b.py
+        └── utils.py
 
 ### 2.1. Prerequisites of Environment
 
