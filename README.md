@@ -17,11 +17,13 @@
 
 ## :boom: News :boom:
 
-- The preliminary proceedings for the workshop has now been released: https://www.eigen.no/.
+- [2020/12/12] Training code is released!
 
-- Traning code will be update before the virtual conference
+- [2020/12/11] The preliminary proceedings for the workshop has now been released: https://www.eigen.no/.
 
-- Testing dataset will be update after the release of official link by workshop organizer
+- [2020/12/09] Traning code will be update before the virtual conference.
+
+- [2020/12/07] Testing dataset will be update after the release of official link by workshop organizer.
 
 ## 1. Brief Description
 
