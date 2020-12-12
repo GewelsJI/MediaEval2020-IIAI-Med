@@ -3,7 +3,7 @@ import torch.nn.functional as F
 import numpy as np
 import os, argparse
 import cv2
-from utils.PraNet_Res2Net import PraNet
+from lib.PraNet_Res2Net import PraNet
 from utils.data import test_dataset
 import time
 

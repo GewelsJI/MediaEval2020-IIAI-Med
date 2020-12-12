@@ -103,6 +103,9 @@ pip install opencv-python==3.4.2.17 tensorboardX==2.0
 ### 2.2. Training
 
 - We randomly select train/validation (90% / 10%) samples from [Kavasir-SEG dataset](https://datasets.simula.no/kvasir-seg/).
+You can download it from this link (upcoming soon~) and put it in `./data/`.
+
+- run `python Training.py`
 
 ### 2.3. inference
 

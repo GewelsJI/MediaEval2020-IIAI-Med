@@ -147,7 +147,7 @@ if __name__ == '__main__':
     parser.add_argument('--val_root', type=str, default='./data/ValDataset/Kvasir-SEG/',
                         help='the test rgb images root')
     parser.add_argument('--save_path', type=str,
-                        default='./snapshot/20200903-MedicoPolyp/',
+                        default='./snapshot/',
                         help='the path to save model and log')
     opt = parser.parse_args()
 
