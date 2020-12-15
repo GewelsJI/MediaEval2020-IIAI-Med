@@ -1,6 +1,8 @@
 <img src="img/introduction.png" width="100%">
 
 <p align="center">
+  Infos: 
+  <a href="https://multimediaeval.github.io/editions/2020/tasks/medico/">MediaEval Benchmark Website</a> |
   <a href="https://www.eigen.no/MediaEval20_paper_29.pdf">Paper Link</a> |
   <a href="https://youtu.be/ukJKJosu1f8">Presentation Video on YouTube</a>
 </p>
