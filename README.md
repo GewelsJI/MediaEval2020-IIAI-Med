@@ -17,6 +17,13 @@
 
 ## :boom: News :boom:
 
+- [2020/12/14] Congratulations on the success of the workshop! The IIAI-Med team win the best precision scores 
+and rand $7^{th}$ in the final competition. Note that many works in this workshop adopt ours method as the baseline 
+and achieve satisfactory results, such as 
+[HCMUS at Medico Automatic Polyp Segmentation Task 2020: PraNet and ResUnet++ for Polyps Segmentation](https://eigen.no/MediaEval20_paper_47.pdf) 
+and [HCMUS-Juniors 2020 at Medico Task in MediaEval 2020: Refined Deep Neural Network and U-Net for Polyps Segmentation](file:///C:/Users/Gepeng-Ji/Desktop/MediaEval20_paper_20.pdf),
+verifying the high efficiency of our model.
+
 - [2020/12/12] Training code is released! Please enjoy it!
 
 - [2020/12/11] The preliminary proceedings for the workshop has now been released: https://www.eigen.no/.
