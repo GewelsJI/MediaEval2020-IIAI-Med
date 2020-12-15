@@ -17,8 +17,8 @@
 
 ## :boom: News :boom:
 
-- [2020/12/14] Congratulations on the success of the workshop! The IIAI-Med team **win the best precision scores (90.1%) 
-and rand $$7^{th}$$ in the final competition**. 
+- [2020/12/14] Congratulations on the success of the workshop! The IIAI-Med team **wins the best precision scores (90.1%) 
+and ranks 7-th in the final competition**. 
 
 - [2020/12/14] Note that many works in this workshop adopt ours method as the baseline 
 and achieve satisfactory results, such as 
