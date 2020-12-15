@@ -17,7 +17,7 @@
 
 ## :boom: News :boom:
 
-- [2020/12/14] Congratulations on the success of the workshop! The IIAI-Med team win the best precision scores 
+- [2020/12/14] Congratulations on the success of the workshop! The IIAI-Med team win the best precision scores (90.1%) 
 and rand $7^{th}$ in the final competition. Note that many works in this workshop adopt ours method as the baseline 
 and achieve satisfactory results, such as 
 [HCMUS at Medico Automatic Polyp Segmentation Task 2020: PraNet and ResUnet++ for Polyps Segmentation](https://eigen.no/MediaEval20_paper_47.pdf) 
@@ -63,15 +63,15 @@ The file tree structure is described here:
     │   ├── TestDataset
     │   │   └── MedicoPolypSeg
     │   ├── TrainDataset
-    │   │   └── Kvasir-SEG
-    │   └── ValDataset
-    │       └── Kvasir-SEG
+    │         │   └── Kvasir-SEG
+    │         └── ValDataset
+    │             └── Kvasir-SEG
     ├── img
-    │   └── introduction.png
+    │         └── introduction.png
     ├── lib
-    │   ├── __init__.py
-    │   ├── PraNet_Res2Net.py
-    │   └── Res2Net_v1b.py
+    │         ├── __init__.py
+    │         ├── PraNet_Res2Net.py
+    │         └── Res2Net_v1b.py
     ├── README.md
     ├── Testing.py
     ├── Training.py
